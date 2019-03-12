@@ -54,7 +54,7 @@ class List1 extends React.Component {
       <React.Fragment>
         {_.map(showData, (data, index) => {
           ...
-        }}
+        })}
       </React.Fragment>
     );
   };
