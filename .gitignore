@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# production
+/lib
+
+# misc
+.DS_Store
+npm-debug.log*
+
+.vscode/
+.idea/
+package-lock.json
