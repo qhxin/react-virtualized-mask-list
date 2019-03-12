@@ -1,6 +1,6 @@
 {
   "name": "react-virtualized-mask-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Applies to a virtualized list with highly fixed child elements, partial rendering of data within the filter range",
   "main": "lib/index.js",
   "files": [
