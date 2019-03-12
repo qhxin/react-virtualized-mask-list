@@ -23,6 +23,10 @@
     "filter",
     "mask"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qhxin/react-virtualized-mask-list.git"
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
