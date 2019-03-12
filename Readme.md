@@ -4,7 +4,7 @@
 !!! This component only applies to fixed lists/tables of row heights.
 
 One VirtualizedMaskFilter can contains multi VirtualizedList.
-![The mask filter](src/static/filtermask.jpg)
+![The mask filter](https://i.imgur.com/ZqjPX1w.jpg)
 
 Install:
 ```
